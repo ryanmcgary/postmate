@@ -1,7 +1,6 @@
 {
-  "extends": [
-    "airbnb/base"
-  ],
-  "globals": {
+  "extends": "dollarshaveclub",
+  "rules": {
+    "import/no-duplicates": 0,
   }
 }

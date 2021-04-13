@@ -10,7 +10,10 @@
     "postMessage",
     "secure",
     "handshake",
-    "promise"
+    "promise",
+    "iframes",
+    "pci",
+    "security"
   ],
   "license": "MIT",
   "ignore": [
@@ -18,6 +21,7 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "assets"
   ]
 }
